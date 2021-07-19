@@ -6,7 +6,7 @@ public class Q8 {
 		try {
 			System.out.println(a/b);
 		} catch (ArithmeticException e) {
-			System.out.println("Division by zero error");
+			System.out.println("Division by zero error: "+e.toString());
 		}
 	}
 }
