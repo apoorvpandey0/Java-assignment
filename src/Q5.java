@@ -1,4 +1,4 @@
-// Program to show the detail of students using concept of inheritance
+// Q5. Program to show the detail of students using concept of inheritance
 
 class Person {
     String firstName;
