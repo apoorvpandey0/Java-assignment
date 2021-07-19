@@ -1,14 +1,22 @@
-## Getting Started
+## Java assignment 25-jul-21
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+1. Write a program that accepts two numbers from the user and print their sum.
 
-The workspace contains two folders by default, where:
+2. Write a program to calculate addition of two number using prototyping of methods.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+3. Program to demonstrate function overloading for calculation of average.
 
-## Dependency Management
+4. Program to demonstrating overloaded constructor for calculating box volume.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+5. Program to show the detail of students using concept of inheritance.
+
+6. Program to demonstrate package concept.
+
+7. Program to demonstrate implementation of an interface which contains two methods declaration square and cube.
+
+8. Program to demonstrate exception handling in case of division by zero error.
+
+9. Program to demonstrate multithreading.
+
+10. Program to display “Hello World” in web browser using applet.
