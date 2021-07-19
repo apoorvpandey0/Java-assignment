@@ -1,5 +1,5 @@
 ## Java assignment 25-jul-21
-
+These are solved using Github Copilot
 
 1. Write a program that accepts two numbers from the user and print their sum.
 
